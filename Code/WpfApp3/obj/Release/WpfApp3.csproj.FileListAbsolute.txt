@@ -1,0 +1,31 @@
+C:\Users\류믿음\source\repos\WpfApp3\WpfApp3\bin\Release\WpfApp3.exe.config
+C:\Users\류믿음\source\repos\WpfApp3\WpfApp3\bin\Release\WpfApp3.exe
+C:\Users\류믿음\source\repos\WpfApp3\WpfApp3\bin\Release\WpfApp3.pdb
+C:\Users\류믿음\source\repos\WpfApp3\WpfApp3\obj\Release\MainWindow.g.cs
+C:\Users\류믿음\source\repos\WpfApp3\WpfApp3\obj\Release\App.g.cs
+C:\Users\류믿음\source\repos\WpfApp3\WpfApp3\obj\Release\WpfApp3_MarkupCompile.cache
+C:\Users\류믿음\source\repos\WpfApp3\WpfApp3\obj\Release\WpfApp3_MarkupCompile.lref
+C:\Users\류믿음\source\repos\WpfApp3\WpfApp3\obj\Release\MainWindow.baml
+C:\Users\류믿음\source\repos\WpfApp3\WpfApp3\obj\Release\WpfApp3.g.resources
+C:\Users\류믿음\source\repos\WpfApp3\WpfApp3\obj\Release\WpfApp3.Properties.Resources.resources
+C:\Users\류믿음\source\repos\WpfApp3\WpfApp3\obj\Release\WpfApp3.csproj.GenerateResource.Cache
+C:\Users\류믿음\source\repos\WpfApp3\WpfApp3\obj\Release\WpfApp3.csproj.CoreCompileInputs.cache
+C:\Users\류믿음\source\repos\WpfApp3\WpfApp3\obj\Release\WpfApp3.exe
+C:\Users\류믿음\source\repos\WpfApp3\WpfApp3\obj\Release\WpfApp3.pdb
+D:\project\ROBOT CALCULATOR 2.0\WpfApp3\obj\Release\MainWindow.g.cs
+D:\project\ROBOT CALCULATOR 2.0\WpfApp3\obj\Release\App.g.cs
+D:\project\ROBOT CALCULATOR 2.0\WpfApp3\obj\Release\WpfApp3_MarkupCompile.cache
+D:\project\ROBOT CALCULATOR 2.0\WpfApp3\obj\Release\WpfApp3_MarkupCompile.lref
+D:\project\ROBOT CALCULATOR 2.0\WpfApp3\obj\Release\WpfApp3.pdb
+D:\project\ROBOT CALCULATOR 2.0\WpfApp3\bin\Release\WpfApp3.exe.config
+D:\project\ROBOT CALCULATOR 2.0\WpfApp3\bin\Release\WpfApp3.exe
+D:\project\ROBOT CALCULATOR 2.0\WpfApp3\bin\Release\WpfApp3.pdb
+D:\project\ROBOT CALCULATOR 2.0\WpfApp3\obj\Release\MainWindow.baml
+D:\project\ROBOT CALCULATOR 2.0\WpfApp3\obj\Release\WpfApp3.g.resources
+D:\project\ROBOT CALCULATOR 2.0\WpfApp3\obj\Release\WpfApp3.Properties.Resources.resources
+D:\project\ROBOT CALCULATOR 2.0\WpfApp3\obj\Release\WpfApp3.csproj.GenerateResource.Cache
+D:\project\ROBOT CALCULATOR 2.0\WpfApp3\obj\Release\WpfApp3.csproj.CoreCompileInputs.cache
+D:\project\ROBOT CALCULATOR 2.0\WpfApp3\obj\Release\WpfApp3.exe
+D:\project\ROBOT CALCULATOR 2.0\WpfApp3\obj\Release\WpfApp3.csprojResolveAssemblyReference.cache
+D:\project\ROBOT CALCULATOR 2.0\WpfApp3\obj\Release\WarnWindow.g.cs
+D:\project\ROBOT CALCULATOR 2.0\WpfApp3\obj\Release\WarnWindow.baml
